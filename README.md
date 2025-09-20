@@ -10,11 +10,11 @@ This is developed as an educational tool. This plugin aims to help users underst
 
 ---
 
-將翻譯後的GH電池名稱顯示在電池上方。<br>
-這是一個教學工具，幫助不習慣英文環境的使用者較快速的看懂文件中的電池邏輯。
+将翻译后的GH电池名称显示在电池上方。<br>
+这是一个教学工具，帮助不习惯英文环境的使用者较快速的看懂文件中的电池逻辑。
 
-- 建議從[套件管理員](https://www.rhino3d.com/tw/features/package-manager/)下載
-  - 或從[GitHub](https://github.com/v-xup6/MultilingualGH/releases/latest)下載
-- 下載[翻譯檔](https://github.com/v-xup6/MultilingualGH/tree/main/Languages)
-- 閱讀[使用教學](https://github.com/v-xup6/MultilingualGH/wiki/%E5%AE%89%E8%A3%9D)
-- [協助進行翻譯](https://github.com/v-xup6/MultilingualGH/wiki/%E5%89%B5%E4%BD%9C%E7%BF%BB%E8%AD%AF%E6%AA%94)
+- 建议从[套件管理器](https://www.rhino3d.com/tw/features/package-manager/  )下载
+  - 或从[GitHub](https://github.com/v-xup6/MultilingualGH/releases/latest  )下载
+- 下载[翻译档](https://github.com/v-xup6/MultilingualGH/tree/main/Languages  )
+- 阅读[使用教学](https://github.com/v-xup6/MultilingualGH/wiki/%E5%AE%89%E8%A3%9D  )
+- [协助进行翻译](https://github.com/v-xup6/MultilingualGH/wiki/%E5%89%B5%E4%BD%9C%E7%BF%BB%E8%AD%AF%E6%AA%94  )

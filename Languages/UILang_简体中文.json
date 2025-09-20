@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Version",
+        "Translation": "版本"
+    },
+    {
+        "Name": "TipEnable",
+        "Translation": "开启/关闭"
+    },
+    {
+        "Name": "LanguageUI",
+        "Translation": "介面语言"
+    },
+    {
+        "Name": "Methods",
+        "Translation": "翻译显示方式"
+    },
+    {
+        "Name": "MBubble",
+        "Translation": "泡泡翻译"
+    },
+    {
+        "Name": "MText",
+        "Translation": "文字翻译"
+    },
+    {
+        "Name": "TextSize",
+        "Translation": "文字大小"
+    },
+    {
+        "Name": "ReAnnotate",
+        "Translation": "手动更新翻译"
+    },
+    {
+        "Name": "Save",
+        "Translation": "储存设定为预设"
+    },
+    {
+        "Name": "Reload",
+        "Translation": "重新读取档案"
+    },
+    {
+        "Name": "ExcludeDefault",
+        "Translation": "使用预设排除"
+    },
+    {
+        "Name": "ExcludeUser",
+        "Translation": "自订排除"
+    },
+    {
+        "Name": "ShowEng",
+        "Translation": "显示英文名称"
+    },
+    {
+        "Name": "DisplayName",
+        "Translation": "名称显示方式"
+    },
+    {
+        "Name": "DFull",
+        "Translation": "显示全名"
+    },
+    {
+        "Name": "DNick",
+        "Translation": "显示缩写"
+    },
+    {
+        "Name": "DCustom",
+        "Translation": "只显示自订名称"
+    },
+    {
+        "Name": "DCustomFull",
+        "Translation": "显示自订或全名"
+    },
+    {
+        "Name": "DCustomNick",
+        "Translation": "显示自订或缩写"
+    },
+    {
+        "Name": "Missing",
+        "Translation": "不存在或非有效的JSON档案"
+    },
+    {
+        "Name": "*Translator*",
+        "Translation": "林裕杰 (Victor Lin)"
+    },
+    {
+        "Name": "PCloud",
+        "Translation": "点云"
+    }
+]
